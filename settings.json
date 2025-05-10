@@ -21,8 +21,8 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "your_password",
-      "confirm_password": "your_password"
+      "password": "password",
+      "confirm_password": "password"
     },
 
     "anti-afk": {
