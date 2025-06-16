@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "mchoe.aternos.me", 
+    "ip": "craftico.aternos.me", 
     "port": 59114,   
     "version": "1.12.1"   
   },
